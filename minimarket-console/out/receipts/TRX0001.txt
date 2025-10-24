@@ -1,0 +1,14 @@
+==== STRUK MINIMARKET ====
+Tanggal : 2025-10-24 20:57:06
+Kasir   : Admin
+---------------------------
+111 x2 @14000 28000
+---------------------------
+SUBTOTAL 28000
+DISKON   2000
+PPN 0%  0
+TOTAL    26000
+BAYAR    30000
+KEMBALI  4000
+===========================
+Terima kasih.
